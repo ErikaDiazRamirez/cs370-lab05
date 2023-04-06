@@ -1,5 +1,5 @@
 # cs370-lab05
-#In order to open my lab: 
+In order to open my lab: 
 - Download the zip file (this may take a while, I'm not sure if I missed adding something to my .gitignore).
 - Unzip the file and go into the resulting file.
 - Click on SideScrollerTemplate.uproject
